@@ -1,3 +1,17 @@
+Day 3: Todo List
+Description: A minimal todo list application.
+
+Functionalities:
+
+Add, edit, and delete tasks
+Mark tasks as complete
+Persistent storage using local storage
+
+Live on Vercel: https://lnkd.in/dK-GW3eT
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
